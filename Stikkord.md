@@ -6,10 +6,12 @@ Organisasjon
 
 - Conway
 - Kryssfunksjonelle team
+- Uavhengige team
 - Customer/supplier
 - Far & Near
 - Splitte vertikalt
 - Små team
+- Små prosjekter
 
 
 Prosess
@@ -41,6 +43,7 @@ Arkitektur
 - Tåle nedetid
 - Utility-bibliotek
 - Felles-rammeverk
+- Stateless services
 
 
 Kvalitetssikring
